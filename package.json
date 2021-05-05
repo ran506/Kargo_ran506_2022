@@ -1,0 +1,23 @@
+{
+  "name": "kargo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "dependencies": {
+    "num-words": "^1.2.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ran506/Kargo_ran506_2022.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ran506/Kargo_ran506_2022/issues"
+  },
+  "homepage": "https://github.com/ran506/Kargo_ran506_2022#readme"
+}
